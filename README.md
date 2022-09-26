@@ -3,36 +3,7 @@ This data set contains booking information for a city hotel and a resort hotel a
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Conclusion:
+# Conclusion:
 We used the dataset that contains data about hotel bookings
 
 We cleaned and preprocessed the data and then we performed the exploratory data analysis to extract information from the data to answer the following questions.
@@ -44,3 +15,6 @@ Which is the busiest month for hotels?
 From which country most guests come?
 How Long People Stay in the hotel?
 Which was the most booked accommodation type (Single, Couple, Family)?
+
+
+
